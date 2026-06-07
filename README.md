@@ -1,6 +1,6 @@
 # 🌾 Kisan Mitra
 
-> **AI-Powered Agricultural Monitoring & Profit Intelligence Platform**
+> *AI-Powered Agricultural Monitoring & Profit Intelligence Platform*
 
 [![SIH 2024](https://img.shields.io/badge/Smart%20India%20Hackathon-Round%202%20Selected-FF6B00?style=flat&logo=india&logoColor=white)]()
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
