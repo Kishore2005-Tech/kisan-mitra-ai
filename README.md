@@ -73,14 +73,14 @@ Product costs      ──►                    ──►   Profit improvement p
 
 | Module | Description |
 |---|---|
-| 🛰️ **Crop Monitoring* | Real-time crop health tracking using sensor & satellite data |
-| 🌡️ **Soil Intelligence* | Soil moisture, pH, nutrient level monitoring with alerts |
-| ☁️ **Weather Integration* | Hyperlocal weather forecasting and farm-specific advisories |
-| 🔬 **Disease Detection* | AI image recognition for early crop disease and pest detection |
-| 💧 **Irrigation Manager* | Smart irrigation scheduling based on soil and weather data |
-| 💰 **Profit Planner* | Dataset-driven profit optimization engine *(Unique Feature)* |
-| 📦 **Market Linkage* | Live mandi prices, demand forecasting, and direct buyer connect |
-| 📋 **Farm Dashboard* | Unified view of all farm metrics, alerts, and recommendations |
+| 🛰️ **Crop Monitoring** | Real-time crop health tracking using sensor & satellite data |
+| 🌡️ **Soil Intelligence** | Soil moisture, pH, nutrient level monitoring with alerts |
+| ☁️ **Weather Integration** | Hyperlocal weather forecasting and farm-specific advisories |
+| 🔬 **Disease Detection** | AI image recognition for early crop disease and pest detection |
+| 💧 **Irrigation Manager** | Smart irrigation scheduling based on soil and weather data |
+| 💰 **Profit Planner** | Dataset-driven profit optimization engine *(Unique Feature)* |
+| 📦 **Market Linkage** | Live mandi prices, demand forecasting, and direct buyer connect |
+| 📋 **Farm Dashboard** | Unified view of all farm metrics, alerts, and recommendations |
 | 🌾 **Crop Calendar** | AI-generated sowing, fertilizing, and harvesting schedule |
 | 📱 **Farmer App** | Mobile-first interface with regional language support |
 | 🤖 **AI Advisory** | Personalized chatbot advisor for crop and finance queries |
