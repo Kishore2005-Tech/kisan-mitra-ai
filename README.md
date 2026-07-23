@@ -21,7 +21,7 @@
 
 ## 📖 Overview
 
-Kisan Mitra(*Friend of the Farmer*) is a full-stack AI agricultural platform designed to modernize Indian farming. It combines real-time crop monitoring, soil and weather intelligence, disease detection, and a first-of-its-kind **Profit Planner Engine** — giving farmers and agri-businesses the tools to make data-driven decisions that directly improve yield and income.
+Kisan Mitra(Friend of the Farmer) is a full-stack AI agricultural platform designed to modernize Indian farming. It combines real-time crop monitoring, soil and weather intelligence, disease detection, and a first-of-its-kind **Profit Planner Engine** — giving farmers and agri-businesses the tools to make data-driven decisions that directly improve yield and income.
 
 > Built with a mission: bridge the technology gap in Indian agriculture and put actionable intelligence in every farmer's hands.
 
