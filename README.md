@@ -13,7 +13,7 @@
 
 ### 🏆 Selected in Round 2 — Smart India Hackathon (SIH)
 
-Empowering farmers with AI-driven insights, real-time monitoring, and intelligent profit planning
+*Empowering farmers with AI-driven insights, real-time monitoring, and intelligent profit planning*
 
 </div>
 
